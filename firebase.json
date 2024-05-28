@@ -1,1 +1,39 @@
-{"flutter":{"platforms":{"android":{"default":{"projectId":"nutricion-81db6","appId":"1:172254087018:android:1ef58eeadb305e19b28713","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"nutricion-81db6","configurations":{"android":"1:172254087018:android:1ef58eeadb305e19b28713","ios":"1:172254087018:ios:7fe0ab08fe843797b28713","macos":"1:172254087018:ios:7fe0ab08fe843797b28713","web":"1:172254087018:web:890d51e007a2203cb28713","windows":"1:172254087018:web:3db36e54c04de17cb28713"}}}}}}
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "nutricion-81db6",
+          "appId": "1:172254087018:android:1ef58eeadb305e19b28713",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "nutricion-81db6",
+          "configurations": {
+            "android": "1:172254087018:android:1ef58eeadb305e19b28713",
+            "ios": "1:172254087018:ios:7fe0ab08fe843797b28713",
+            "macos": "1:172254087018:ios:7fe0ab08fe843797b28713",
+            "web": "1:172254087018:web:890d51e007a2203cb28713",
+            "windows": "1:172254087018:web:3db36e54c04de17cb28713"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
