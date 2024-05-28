@@ -1,0 +1,1 @@
+export 'package:nutriapp/widgets/seccion.dart';

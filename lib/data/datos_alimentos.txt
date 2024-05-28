@@ -1,0 +1,530 @@
+[
+ {
+   "NOMBRE": "LECHE",
+   "GRAMOS": 300,
+   "GRASAS": 10.8,
+   "HIDRATOS": 13.5,
+   "PROTEINAS": 9,
+   "CALORIAS": 186
+ },
+ {
+   "NOMBRE": "CEREALES",
+   "GRAMOS": 30,
+   "GRASAS": 1.92,
+   "HIDRATOS": 19.5,
+   "PROTEINAS": 3.9,
+   "CALORIAS": 118
+ },
+ {
+   "NOMBRE": "ARROZ",
+   "GRAMOS": 50,
+   "GRASAS": 0.4,
+   "HIDRATOS": 38,
+   "PROTEINAS": 4,
+   "CALORIAS": 173
+ },
+ {
+   "NOMBRE": "PECHUGA",
+   "GRAMOS": 100,
+   "GRASAS": 1.8,
+   "HIDRATOS": 0,
+   "PROTEINAS": 22,
+   "CALORIAS": 106
+ },
+ {
+   "NOMBRE": "CHOCOLATE",
+   "GRAMOS": 10,
+   "GRASAS": 4.9,
+   "HIDRATOS": 2,
+   "PROTEINAS": 1.2,
+   "CALORIAS": 60
+ },
+ {
+   "NOMBRE": "YOGUR",
+   "GRAMOS": 125,
+   "GRASAS": 0,
+   "HIDRATOS": 6.1,
+   "PROTEINAS": 5.1,
+   "CALORIAS": 46
+ },
+ {
+   "NOMBRE": "BBQ",
+   "GRAMOS": 100,
+   "GRASAS": 0,
+   "HIDRATOS": 18.6,
+   "PROTEINAS": 2,
+   "CALORIAS": 88
+ },
+ {
+   "NOMBRE": "TOMATE",
+   "GRAMOS": 100,
+   "GRASAS": 15,
+   "HIDRATOS": 14.3,
+   "PROTEINAS": 1.6,
+   "CALORIAS": 201
+ },
+ {
+   "NOMBRE": "BABYBEL",
+   "GRAMOS": 20,
+   "GRASAS": 4.8,
+   "HIDRATOS": 0,
+   "PROTEINAS": 4.6,
+   "CALORIAS": 62
+ },
+ {
+   "NOMBRE": "PASTA",
+   "GRAMOS": 100,
+   "GRASAS": 1.5,
+   "HIDRATOS": 72,
+   "PROTEINAS": 13,
+   "CALORIAS": 361
+ },
+ {
+   "NOMBRE": "LECHE ENTERA",
+   "GRAMOS": 100,
+   "GRASAS": 3.6,
+   "HIDRATOS": 4.5,
+   "PROTEINAS": 3,
+   "CALORIAS": 62
+ },
+ {
+   "NOMBRE": "LECHE DESNATADA",
+   "GRAMOS": 100,
+   "GRASAS": 0.3,
+   "HIDRATOS": 4.7,
+   "PROTEINAS": 3.1,
+   "CALORIAS": 34
+ },
+ {
+   "NOMBRE": "CACAO PURO",
+   "GRAMOS": 100,
+   "GRASAS": 16,
+   "HIDRATOS": 16.3,
+   "PROTEINAS": 25.5,
+   "CALORIAS": 375
+ },
+ {
+   "NOMBRE": "CACAHUETE DESGRASADO",
+   "GRAMOS": 100,
+   "GRASAS": 13.2,
+   "HIDRATOS": 21,
+   "PROTEINAS": 46.7,
+   "CALORIAS": 416
+ },
+ {
+   "NOMBRE": "NOCILLA",
+   "GRAMOS": 100,
+   "GRASAS": 31,
+   "HIDRATOS": 60,
+   "PROTEINAS": 4.2,
+   "CALORIAS": 539
+ },
+ {
+   "NOMBRE": "GARBANZOS",
+   "GRAMOS": 100,
+   "GRASAS": 2.2,
+   "HIDRATOS": 9.5,
+   "PROTEINAS": 5.5,
+   "CALORIAS": 90
+ },
+ {
+   "NOMBRE": "JAMON EN TACOS",
+   "GRAMOS": 100,
+   "GRASAS": 10.6,
+   "HIDRATOS": 1,
+   "PROTEINAS": 33.7,
+   "CALORIAS": 234.2
+ },
+ {
+   "NOMBRE": "ARROZ VAPORIZADO",
+   "GRAMOS": 100,
+   "GRASAS": 0.7,
+   "HIDRATOS": 76,
+   "PROTEINAS": 7.9,
+   "CALORIAS": 345
+ },
+ {
+   "NOMBRE": "COUS COUS",
+   "GRAMOS": 100,
+   "GRASAS": 1.6,
+   "HIDRATOS": 69,
+   "PROTEINAS": 12,
+   "CALORIAS": 346
+ },
+ {
+   "NOMBRE": "ATUN ",
+   "GRAMOS": 100,
+   "GRASAS": 1.2,
+   "HIDRATOS": 0.9,
+   "PROTEINAS": 21,
+   "CALORIAS": 98
+ },
+ {
+   "NOMBRE": "MERLUZA",
+   "GRAMOS": 100,
+   "GRASAS": 1.2,
+   "HIDRATOS": 0.5,
+   "PROTEINAS": 18,
+   "CALORIAS": 82
+ },
+ {
+   "NOMBRE": "BACALAO",
+   "GRAMOS": 100,
+   "GRASAS": 3,
+   "HIDRATOS": 2,
+   "PROTEINAS": 11.88,
+   "CALORIAS": 47
+ },
+ {
+   "NOMBRE": "CALAMARES",
+   "GRAMOS": 100,
+   "GRASAS": 1.5,
+   "HIDRATOS": 0,
+   "PROTEINAS": 12,
+   "CALORIAS": 62
+ },
+ {
+   "NOMBRE": "ACEITE DE OLIVA",
+   "GRAMOS": 100,
+   "GRASAS": 91,
+   "HIDRATOS": 0,
+   "PROTEINAS": 0,
+   "CALORIAS": 819
+ },
+ {
+   "NOMBRE": "ACEITE DE COCO",
+   "GRAMOS": 100,
+   "GRASAS": 100,
+   "HIDRATOS": 0,
+   "PROTEINAS": 0,
+   "CALORIAS": 900
+ },
+ {
+   "NOMBRE": "ACEITUNAS",
+   "GRAMOS": 100,
+   "GRASAS": 18,
+   "HIDRATOS": 0,
+   "PROTEINAS": 1,
+   "CALORIAS": 172
+ },
+ {
+   "NOMBRE": "ANACARDOS",
+   "GRAMOS": 100,
+   "GRASAS": 48.2,
+   "HIDRATOS": 19,
+   "PROTEINAS": 21.9,
+   "CALORIAS": 604
+ },
+ {
+   "NOMBRE": "NUECES",
+   "GRAMOS": 100,
+   "GRASAS": 69.6,
+   "HIDRATOS": 2.2,
+   "PROTEINAS": 17,
+   "CALORIAS": 716
+ },
+ {
+   "NOMBRE": "MACADAMIA",
+   "GRAMOS": 100,
+   "GRASAS": 76.4,
+   "HIDRATOS": 5.8,
+   "PROTEINAS": 8.6,
+   "CALORIAS": 758
+ },
+ {
+   "NOMBRE": "JAMON",
+   "GRAMOS": 100,
+   "GRASAS": 12.2,
+   "HIDRATOS": 1,
+   "PROTEINAS": 33.5,
+   "CALORIAS": 247.8
+ },
+ {
+   "NOMBRE": "CEREALES AVENA CACAO",
+   "GRAMOS": 100,
+   "GRASAS": 6.4,
+   "HIDRATOS": 65,
+   "PROTEINAS": 13,
+   "CALORIAS": 393
+ },
+ {
+   "NOMBRE": "CEREALES AVENA",
+   "GRAMOS": 100,
+   "GRASAS": 5.8,
+   "HIDRATOS": 66,
+   "PROTEINAS": 13,
+   "CALORIAS": 390
+ },
+ {
+   "NOMBRE": "GOUDA",
+   "GRAMOS": 100,
+   "GRASAS": 28,
+   "HIDRATOS": 2,
+   "PROTEINAS": 23,
+   "CALORIAS": 352
+ },
+ {
+   "NOMBRE": "EMENTAL",
+   "GRAMOS": 100,
+   "GRASAS": 29,
+   "HIDRATOS": 0.5,
+   "PROTEINAS": 27,
+   "CALORIAS": 369
+ },
+ {
+   "NOMBRE": "HABARTI LIGHT",
+   "GRAMOS": 100,
+   "GRASAS": 17,
+   "HIDRATOS": 1.6,
+   "PROTEINAS": 27,
+   "CALORIAS": 267
+ },
+ {
+   "NOMBRE": "PAN BIMBO",
+   "GRAMOS": 100,
+   "GRASAS": 4.5,
+   "HIDRATOS": 47,
+   "PROTEINAS": 9.1,
+   "CALORIAS": 265
+ },
+ {
+   "NOMBRE": "ZANAHORIA",
+   "GRAMOS": 100,
+   "GRASAS": 0,
+   "HIDRATOS": 6.7,
+   "PROTEINAS": 0.4,
+   "CALORIAS": 35
+ },
+ {
+   "NOMBRE": "PATATA",
+   "GRAMOS": 100,
+   "GRASAS": 0,
+   "HIDRATOS": 14.5,
+   "PROTEINAS": 1.9,
+   "CALORIAS": 68
+ },
+ {
+   "NOMBRE": "GELATINA",
+   "GRAMOS": 100,
+   "GRASAS": 0,
+   "HIDRATOS": 0,
+   "PROTEINAS": 10,
+   "CALORIAS": 40
+ },
+ {
+   "NOMBRE": "MANTEQUILLA",
+   "GRAMOS": 100,
+   "GRASAS": 81,
+   "HIDRATOS": 0.8,
+   "PROTEINAS": 0.5,
+   "CALORIAS": 734
+ },
+ {
+   "NOMBRE": "HUEVOS",
+   "GRAMOS": 100,
+   "GRASAS": 11.1,
+   "HIDRATOS": 0.5,
+   "PROTEINAS": 12.5,
+   "CALORIAS": 150
+ },
+ {
+   "NOMBRE": "PATATAS FRITAS",
+   "GRAMOS": 100,
+   "GRASAS": 30,
+   "HIDRATOS": 54,
+   "PROTEINAS": 6.4,
+   "CALORIAS": 520
+ },
+ {
+   "NOMBRE": "FAJITA",
+   "GRAMOS": 100,
+   "GRASAS": 6.4,
+   "HIDRATOS": 51,
+   "PROTEINAS": 8,
+   "CALORIAS": 303
+ },
+ {
+   "NOMBRE": "CALDO DE POLLO",
+   "GRAMOS": 100,
+   "GRASAS": 0.3,
+   "HIDRATOS": 0.2,
+   "PROTEINAS": 0.4,
+   "CALORIAS": 5
+ },
+ {
+   "NOMBRE": "GAMBONES",
+   "GRAMOS": 100,
+   "GRASAS": 0.5,
+   "HIDRATOS": 0.5,
+   "PROTEINAS": 21,
+   "CALORIAS": 87
+ },
+ {
+   "NOMBRE": "MAGRO DE CERDO",
+   "GRAMOS": 100,
+   "GRASAS": 15,
+   "HIDRATOS": 0,
+   "PROTEINAS": 19,
+   "CALORIAS": 211
+ },
+ {
+   "NOMBRE": "PANCETA",
+   "GRAMOS": 100,
+   "GRASAS": 26.5,
+   "HIDRATOS": 0.5,
+   "PROTEINAS": 16.7,
+   "CALORIAS": 305
+ },
+ {
+   "NOMBRE": "CONTRAMUSLO",
+   "GRAMOS": 100,
+   "GRASAS": 5.9,
+   "HIDRATOS": 0,
+   "PROTEINAS": 19,
+   "CALORIAS": 129
+ },
+ {
+   "NOMBRE": "MUSLO",
+   "GRAMOS": 100,
+   "GRASAS": 7.3,
+   "HIDRATOS": 0,
+   "PROTEINAS": 18,
+   "CALORIAS": 138
+ },
+ {
+   "NOMBRE": "CHORIZO",
+   "GRAMOS": 100,
+   "GRASAS": 35,
+   "HIDRATOS": 0.5,
+   "PROTEINAS": 14,
+   "CALORIAS": 400
+ },
+ {
+   "NOMBRE": "MORCILLA",
+   "GRAMOS": 100,
+   "GRASAS": 26,
+   "HIDRATOS": 12,
+   "PROTEINAS": 6,
+   "CALORIAS": 300
+ },
+ {
+   "NOMBRE": "MORCILLA DE BURGOS",
+   "GRAMOS": 100,
+   "GRASAS": 12.9,
+   "HIDRATOS": 17.2,
+   "PROTEINAS": 5.9,
+   "CALORIAS": 208
+ },
+ {
+   "NOMBRE": "MASA DE PIZZA",
+   "GRAMOS": 100,
+   "GRASAS": 4.4,
+   "HIDRATOS": 53.4,
+   "PROTEINAS": 2.4,
+   "CALORIAS": 283
+ },
+ {
+   "NOMBRE": "PROTE",
+   "GRAMOS": 100,
+   "GRASAS": 6.22,
+   "HIDRATOS": 7.84,
+   "PROTEINAS": 75.4,
+   "CALORIAS": 392.09
+ },
+ {
+   "NOMBRE": "LOMO EMBUCHADO",
+   "GRAMOS": 100,
+   "GRASAS": 5,
+   "HIDRATOS": 0.5,
+   "PROTEINAS": 38,
+   "CALORIAS": 199
+ },
+ {
+   "NOMBRE": "PURÉ",
+   "GRAMOS": 600,
+   "GRASAS": 11.3,
+   "HIDRATOS": 103,
+   "PROTEINAS": 13.5,
+   "CALORIAS": 550
+ },
+ {
+   "NOMBRE": "MEDALLON DE CABRA",
+   "GRAMOS": 100,
+   "GRASAS": 19,
+   "HIDRATOS": 1.8,
+   "PROTEINAS": 16,
+   "CALORIAS": 242
+ },
+ {
+   "NOMBRE": "PATATAS LIGHT",
+   "GRAMOS": 100,
+   "GRASAS": 20,
+   "HIDRATOS": 65,
+   "PROTEINAS": 4.4,
+   "CALORIAS": 464
+ },
+ {
+   "NOMBRE": "PIPAS DE CALABAZA",
+   "GRAMOS": 100,
+   "GRASAS": 47.9,
+   "HIDRATOS": 3,
+   "PROTEINAS": 35.3,
+   "CALORIAS": 583
+ },
+ {
+   "NOMBRE": "PAN CRACKER",
+   "GRAMOS": 100,
+   "GRASAS": 12.6,
+   "HIDRATOS": 64.9,
+   "PROTEINAS": 11,
+   "CALORIAS": 430
+ },
+ {
+   "NOMBRE": "LENTEJAS",
+   "GRAMOS": 100,
+   "GRASAS": 1.2,
+   "HIDRATOS": 48.1,
+   "PROTEINAS": 24.5,
+   "CALORIAS": 320
+ },
+ {
+   "NOMBRE": "COPA CHOCOLATE",
+   "GRAMOS": 100,
+   "GRASAS": 2.4,
+   "HIDRATOS": 5,
+   "PROTEINAS": 10,
+   "CALORIAS": 82
+ },
+ {
+   "NOMBRE": "PAVO",
+   "GRAMOS": 100,
+   "GRASAS": 1.3,
+   "HIDRATOS": 1,
+   "PROTEINAS": 19.5,
+   "CALORIAS": 89
+ },
+ {
+   "NOMBRE": "GALLO",
+   "GRAMOS": 100,
+   "GRASAS": 0.3,
+   "HIDRATOS": 0.9,
+   "PROTEINAS": 19,
+   "CALORIAS": 80
+ },
+ {
+   "NOMBRE": "GOTAS DE CHOCOLATE",
+   "GRAMOS": 100,
+   "GRASAS": 25,
+   "HIDRATOS": 59,
+   "PROTEINAS": 6,
+   "CALORIAS": 501
+ },
+ {
+   "NOMBRE": "TORTITAS DE MAIZ",
+   "GRAMOS": 100,
+   "GRASAS": 1.8,
+   "HIDRATOS": 80,
+   "PROTEINAS": 7.5,
+   "CALORIAS": 368
+ }
+]
