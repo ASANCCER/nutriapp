@@ -18,13 +18,13 @@ class AlimentoScreen extends StatelessWidget {
                     top: 30,
                     left: 30,
                     child: IconButton(
-                        onPressed: () => Navigator.of(context).pop(),
+                        onPressed: () => Navigator.pushNamed(context, "home"),
                         icon: const Icon(Icons.arrow_back_ios))),
                 Positioned(
                     top: 30,
                     right: 30,
                     child: IconButton(
-                        onPressed: () => Navigator.of(context).pop(),
+                        onPressed: () => Navigator.pushNamed(context, "home"),
                         icon: const Icon(Icons.camera_alt_outlined)))
               ],
             ),

@@ -8,33 +8,38 @@ class Diario1 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: SingleChildScrollView(
-        child: Container(
-          width: double.infinity,
-          color: Colors.blueGrey.shade300,
-          child: Column(
-            children: [
-              dia(context, 'DESAYUNO'),
-              tablaDiaria(context),
-              dia(context, 'ALMUERZO'),
-              tablaDiaria(
-                context,
+      body: Stack(
+        children: [
+          SingleChildScrollView(
+            child: Container(
+              width: double.infinity,
+              color: Colors.blueGrey.shade300,
+              child: Column(
+                children: [
+                  dia(context, 'DESAYUNO'),
+                  tablaDiaria(context),
+                  dia(context, 'ALMUERZO'),
+                  tablaDiaria(
+                    context,
+                  ),
+                  dia(context, 'COMIDA'),
+                  tablaDiaria(
+                    context,
+                  ),
+                  dia(context, 'MERIENDA'),
+                  tablaDiaria(
+                    context,
+                  ),
+                  dia(context, 'CENA'),
+                  tablaDiaria(
+                    context,
+                  ),
+                ],
               ),
-              dia(context, 'COMIDA'),
-              tablaDiaria(
-                context,
-              ),
-              dia(context, 'MERIENDA'),
-              tablaDiaria(
-                context,
-              ),
-              dia(context, 'CENA'),
-              tablaDiaria(
-                context,
-              ),
-            ],
+            ),
           ),
-        ),
+          Utiles.botonVolver(context, 'DIARIO')
+        ],
       ),
       floatingActionButton: FloatingActionButton(
         backgroundColor: Colors.teal.shade900,

@@ -67,4 +67,15 @@ class Utiles {
           child: Utiles.textoCentrado(titulo, letra, fuente)),
     );
   }
+
+  static Positioned botonVolver(BuildContext context, String pantalla) {
+    return Positioned(
+        top: 20.0, // Ajusta la posición vertical del botón
+        left: 20.0, // Ajusta la posición horizontal del botón
+        child: IconButton(
+            onPressed: () => Navigator.pushNamed(context, pantalla),
+            color: Colors.white,
+            icon: const Icon(Icons.arrow_back_ios)),
+      );
+  }
 }
